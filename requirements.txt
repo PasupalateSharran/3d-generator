@@ -1,0 +1,6 @@
+torch
+torchvision
+open3d
+numpy
+plotly
+matplotlib
